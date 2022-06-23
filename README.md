@@ -5,6 +5,9 @@ Step2: Import the path of you driver in your code.
 
 Step3: Install Selenium
    #pip install selenium==4.0.0
+ 
+Step: Install requirements.txt
+  pip install -r requirements.txt
 
 Step4: Create Two Files.
    1. for creating new Gmail Account
